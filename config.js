@@ -34,7 +34,7 @@ global.sig = 'https://instagram.com/_ctzhid'
 global.sgh = '-' //github
 global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = '-' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '082158393348' //dana
